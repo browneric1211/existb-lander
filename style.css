@@ -1,0 +1,47 @@
+
+.btn-primary {
+    background-color: #212529;
+    border-color:  #212529;
+}
+
+
+.btn {
+    font-weight: 700;
+  border-radius: 400px;
+  text-transform: uppercase;
+  color: #212529;;
+}
+
+.btn:hover {
+    border: solid #212529;
+    color: #212529;
+    border-width: 2px;
+}
+
+.btn-1  {
+    padding: 1em 2em;
+}
+
+
+hr {
+    box-shadow: 5px 5px;
+    max-width: 200px;
+}
+
+
+.buffer {
+    height: 3em;
+}
+
+
+body, html{
+    width: 100%;
+    height: 100%;
+    font-family: 'Source Serif Pro', serif, 'Ubuntu', sans-serif;
+    background: url(Ecx8Ows.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}   
+
